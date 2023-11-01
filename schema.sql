@@ -1,4 +1,6 @@
-CREATE TABLE card_holder (
+SELECT * FROM mirza
+
+CREATE TABLE mirza (
   id INT NOT NULL,
   name VARCHAR(50),
   PRIMARY KEY (id)
